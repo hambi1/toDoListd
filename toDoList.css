@@ -1,0 +1,50 @@
+div{
+    text-align: center;
+    width: 300px;
+    background-color: aquamarine;
+    border: 2px solid black;
+    margin: 5px auto;
+    padding-bottom: 30px;
+}
+#search-form input{
+    width: 220px;
+}
+.header-title{
+    color: blue;
+}
+h2{
+    text-align: left;
+    padding-top:12px ;
+    margin: 0px auto;
+    max-width: 300px;
+    padding-left: 40px;
+}
+main{
+    width: 300px;
+    margin: 0px auto;
+}
+#to-do-list{
+    max-width: 300px;
+    padding-left: 58px;
+
+}
+.title{
+    position: absolute;
+    margin-left: 1px;
+    color:black;
+}
+.to-do-item{
+    position: relative;
+    margin: 7px 50px 7px auto;
+    padding-right: 200px;;
+}
+.delete-btn{
+    cursor: pointer;
+    position: absolute;
+    margin-right: 1px ;
+    background-color: red;
+    color: antiquewhite ;
+    border-radius: 5px;
+    right: 0em;
+    padding: 2px;
+}
